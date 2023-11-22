@@ -9,7 +9,7 @@ from transformers import default_data_collator, Trainer, TrainingArguments
 from contextlib import nullcontext
 
 
-model_id="../../llama/models-hf/"
+model_id="../models-hf/"
 
 def check_model(model, tokenizer):
     eval_prompt = """
