@@ -24,7 +24,31 @@
 
 ## How this dataset can be used? 
 
-  train the Llama on court corpus of 1.7M cases 
+  train the Llama on 
+    court corpus of 1.7M cases 
+    sara dataset 
+      statues 
+      train data - context, question, answer 
+  
+### Statues 
+
+  Let's start with this! 
+
+  Single text document which need to be fed to the model line by line? 
+
+  statues - 258 lines - 4,375 words 
+  
+### Context, Question, Answer  
+ 
+ train - 256 examples  
+ test - 120 examples 
+
+### Court Corpus 
+
+  Let's leave it for the last if time permits 
+
+  It's also a single text document - but very large! ~700 MB 
+
 
 
 
