@@ -66,7 +66,6 @@ def main(
         ignore_remaining_input()
         print("\n"+"=="*20+"\n")
         query = wait_and_get_input() 
-        print("Query: {}".format(query))
         
         qs = query.split(':')
         if qs[0].lower() == 'system':
