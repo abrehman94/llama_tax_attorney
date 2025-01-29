@@ -1,5 +1,7 @@
 # LLAMA based Tax Attorney
 
+  Please see our paper for more details: [LLAMA based Tax Attorney](./ENGR_533_Final_Paper___Neurips_Template.pdf).
+
 ## Usage 
   
   * download llama 2 model from meta 
